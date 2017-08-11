@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestLifeCycle</string>
+    <string name="lifecycle">life cycle</string>
+</resources>
